@@ -16,4 +16,4 @@ A Tampermonkey script that takes over the world.
 Feel free to contribute to this project by creating a pull request.
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the STEVED license.
